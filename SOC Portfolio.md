@@ -14,11 +14,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Hardware Installation and Configuration       | <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main"> Home Networking </a> |
 | Network Design and Topology                   | <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main"> Home Networking </a>|
 | Router Configuration and Firewall Management  | <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main"> Home Networking </a> |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/LukaB0/SIEM/tree/main">SIEM </a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LukaB0/SIEM/tree/main">SIEM </a> |
+| Compliance and Reporting                       | <a href="https://github.com/LukaB0/SIEM/tree/main">SIEM </a> |
 
 ## Tools
 
@@ -34,7 +32,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-563D7C?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
 </div>
@@ -56,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
  - <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main">Home Networking </a>
- - SIEM
- - Honeypot
- - Malware Analysis
- - CTF Challenges
+ - <a href="https://github.com/LukaB0/SIEM/tree/main">SIEM </a>
+ - <a href="https://github.com/LukaB0/Honeypot/tree/main">Honeypot </a>
+ - <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main">Malware Analysis </a>
+ - <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main">CTF Challenges </a>
