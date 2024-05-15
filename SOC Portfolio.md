@@ -55,5 +55,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
  - <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main">Home Networking </a>
  - <a href="https://github.com/LukaB0/SIEM/tree/main">SIEM </a>
  - <a href="https://github.com/LukaB0/Honeypot/tree/main">Honeypot </a>
- - <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main">Malware Analysis </a>
- - <a href="https://github.com/LukaB0/Home-Networking-Project/tree/main">CTF Challenges </a>
+ - <a href="https://github.com/LukaB0/Malware-Analysis/tree/main">Malware Analysis </a>
+ - <a href="https://github.com/LukaB0/CTF-Challenges/tree/main">CTF Challenges </a>
